@@ -1,0 +1,22 @@
+{
+  "name": "vice-city-feels",
+  "displayName": "Vice City Feels ★",
+  "description": "Theme inspired by the colors of GTA Vice City.",
+  "version": "1.0.0",
+  "icon": "assets/logo.png",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vice City Feels ★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vice City Feels ★-color-theme.json"
+      }
+    ]
+  }
+}
