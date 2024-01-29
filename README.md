@@ -1,4 +1,4 @@
-<img src="assets/readme.png">
+<img src="https://github.com/AnksioXD/ViceCityFeelsThemeVSCode/blob/main/assets/readme.png?raw=true">
 
 ***
 #### Support

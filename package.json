@@ -3,7 +3,7 @@
   "displayName": "Vice City Feels ★",
   "description": "Theme inspired by the colors of GTA Vice City.",
   "version": "1.0.0",
-  "icon": "assets/logo.png",
+  "icon": "https://github.com/AnksioXD/ViceCityFeelsThemeVSCode/blob/main/assets/logo.png?raw=true",
   "engines": {
     "vscode": "^1.0.0"
   },
